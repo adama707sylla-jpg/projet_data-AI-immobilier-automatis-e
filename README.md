@@ -11,7 +11,7 @@ avec une précision de **92.5%**.
 * **Model Tournament** : Comparaison entre Ridge, Lasso, RandomForest et GradientBoosting.
 * **Performances** : Score R² final de 0.925 via Gradient Boosting.
 
-* *[![Graphique des Résidus](Notebook/residu.png)](Notebook/residu.png)
+* *[![Texte alternatif](Notebook/residu.png)](Notebook/residu.png)
 
 
 
